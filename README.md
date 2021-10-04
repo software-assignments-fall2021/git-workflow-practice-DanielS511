@@ -7,3 +7,6 @@
 
 Emily Herschmann (eh2376): 
 - An interesting article that stresses the importance of makig comments. Espeically for this class where we will be collaborating on work with other students, it's important that others understand what you did. 
+
+Oscar Xue (rx513):
+- Fruitful coding advice for students in this class. It would be easier to work with other's code if all group members follow these same standards.
